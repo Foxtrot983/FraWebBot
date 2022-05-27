@@ -3,6 +3,11 @@ from aiogram import Bot, Dispatcher, executor, types
 from .config import API_TOKEN
 
 
+<<<<<<< HEAD
+=======
+API_TOKEN = ''
+
+>>>>>>> 3c653dbcabda33aca666e02d35949279bfc12a49
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=API_TOKEN)
